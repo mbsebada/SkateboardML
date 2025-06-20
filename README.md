@@ -34,6 +34,10 @@ To use this data for supervised machine learning, train the model on the data in
 
 You're free to use this data for academic purposes, provided you [cite this work](https://zenodo.org/record/3986905#.XzrIsxNKhBw).
 
+## Example programs
+
+The `examples` directory contains small sample scripts. `list_videos.py` counts the number of videos per trick, and `sample_video_to_frames.py` extracts a few frames from a video.
+
 
 ## Details
 
